@@ -47,7 +47,12 @@ This repository is for keeping track my reading and learning. It is also my publ
 
 - [Hacker laws](https://github.com/dwmkerr/hacker-laws)
 
-### 2019-05-16
+## 2019-05-16
 
 - [Resilience Engineering](https://github.com/lorin/resilience-engineering)
 - Spotify Engineering Culture - [Part 1](https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/), [Part 2](https://labs.spotify.com/2014/09/20/spotify-engineering-culture-part-2/)
+
+## 2019-05-17
+
+- [SOLID Principles](https://www.youtube.com/watch?v=TMuno5RZNeE)
+- [Why I Don't Teach SOLID](http://qualityisspeed.blogspot.com/2014/08/why-i-dont-teach-solid.html)
