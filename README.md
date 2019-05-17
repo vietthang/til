@@ -42,3 +42,12 @@ This repository is for keeping track my reading and learning. It is also my publ
 
 - [Postgres full-text search is Good Enough!](http://rachbelaid.com/postgres-full-text-search-is-good-enough/)
 - [Structured Procrastination](http://www.structuredprocrastination.com/)
+
+## 2019-05-15
+
+- [Hacker laws](https://github.com/dwmkerr/hacker-laws)
+
+### 2019-05-16
+
+- [Resilience Engineering](https://github.com/lorin/resilience-engineering)
+- Spotify Engineering Culture - [Part 1](https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/), [Part 2](https://labs.spotify.com/2014/09/20/spotify-engineering-culture-part-2/)
