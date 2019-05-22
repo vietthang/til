@@ -56,3 +56,9 @@ This repository is for keeping track my reading and learning. It is also my publ
 
 - [SOLID Principles](https://www.youtube.com/watch?v=TMuno5RZNeE)
 - [Why I Don't Teach SOLID](http://qualityisspeed.blogspot.com/2014/08/why-i-dont-teach-solid.html)
+
+## 2019-05-21
+
+- [Circuit Breaker](https://martinfowler.com/bliki/CircuitBreaker.html)
+- [The Bulk of Software Engineering in 2018 is Just Plumbing](https://www.karllhughes.com/posts/plumbing)
+- [Rethinking the Hiring Process](https://www.karllhughes.com/posts/rethinking-hiring)
