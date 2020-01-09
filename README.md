@@ -62,3 +62,20 @@ This repository is for keeping track my reading and learning. It is also my publ
 - [Circuit Breaker](https://martinfowler.com/bliki/CircuitBreaker.html)
 - [The Bulk of Software Engineering in 2018 is Just Plumbing](https://www.karllhughes.com/posts/plumbing)
 - [Rethinking the Hiring Process](https://www.karllhughes.com/posts/rethinking-hiring)
+
+## 2019-06-27
+
+- [Multi tenancy designing for scale](https://www.pgcon.org/2017/schedule/attachments/463_PGCon-2017-Tutorial-US-multi-tenancy-designing-for-scale.pdf)
+
+## 2020-01-08
+
+- [Spark Starter Kit](https://www.udemy.com/course/sparkstarterkit/learn/lecture/7117842#overview)
+- [Functional Core Imperative Core](https://www.youtube.com/watch?v=yTkzNHF6rMs)
+- [Domain Modeling Made Functional: Tackle Software Complexity with Domain-Driven Design and F#](https://www.amazon.com/Domain-Modeling-Made-Functional-Domain-Driven/dp/1680502549) - Most approachable DDD book.
+- [Falling into the pit of success](https://blog.codinghorror.com/falling-into-the-pit-of-success/)
+- [Functional architecture - The pits of success - Mark Seemann](https://www.youtube.com/watch?v=US8QG9I1XW0)
+- [Majestic Modular Monoliths by Axel Fontaine](https://www.youtube.com/watch?v=BOvxJaklcr0)
+
+## 2020-01-09
+
+- [Status as a service](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service)
